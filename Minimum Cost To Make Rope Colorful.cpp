@@ -19,3 +19,4 @@ public:
         return time;
     }
 };
+ //Here, we need to keep track of last maximum amount so that we can element the minimum amount and keep track of maximum one.
